@@ -19,12 +19,12 @@
 <div align="left"> 
     <h3>🔨 Lenguajes y herramientas</h3>
     <div>
-    <img src ="https://w7.pngwing.com/pngs/725/775/png-transparent-javascript-html-logo-blog-css3-javanese-miscellaneous-angle-text-thumbnail.png" tittle="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-    <img src ="https://w7.pngwing.com/pngs/941/557/png-transparent-programming-language-python-computer-programming-programmer-others-miscellaneous-text-logo-thumbnail.png" tittle="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src ="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png" tittle="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src ="https://w7.pngwing.com/pngs/416/280/png-transparent-node-js-express-js-javascript-redis-mean-node-js-angle-text-service-thumbnail.png" tittle="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src ="https://w7.pngwing.com/pngs/192/492/png-transparent-git-bash-hd-logo-thumbnail.png" tittle="GitBash" alt="GitBash" width="40" height="40"/>&nbsp;
-    <img src ="https://w7.pngwing.com/pngs/857/611/png-transparent-github-git-hub-logo-icon-thumbnail.png" tittle="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-    <img src ="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" tittle="VSC" alt="VSC" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/CodeStrong2023/Error_404/blob/main/Logos/Logo-JavaScript.png?raw=true" tittle="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/CodeStrong2023/Error_404/blob/main/Logos/Logo-Python.png?raw=true" tittle="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/CodeStrong2023/Error_404/blob/main/Logos/Logo-Java.png?raw=true" tittle="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/CodeStrong2023/Error_404/blob/main/Logos/Logo-NodeJS.png?raw=true" tittle="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/CodeStrong2023/Error_404/blob/main/Logos/Logo-GitBas.png?raw=true" tittle="GitBash" alt="GitBash" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/CodeStrong2023/Error_404/blob/main/Logos/Logo-GitHub.png?raw=true" tittle="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+    <img src ="https://github.com/CodeStrong2023/Error_404/blob/main/Logos/Logo-VSC.png?raw=true" tittle="VSC" alt="VSC" width="40" height="40"/>&nbsp;
     </div>
 </div>
