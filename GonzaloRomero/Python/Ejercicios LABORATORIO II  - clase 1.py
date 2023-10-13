@@ -13,7 +13,7 @@ for x in range (2,7):
   
 #ejercicio 3: crear un rango de 0 a 10 pero con incremento de 2 en 2 en lugar de 1 en 1
 
-
+"""
 for x in range(0,11,2):
     print(x)
     
@@ -23,11 +23,5 @@ print("intento opcion 2")
 for x in range(11):
     if x % 2 == 0:
         print(x)
-    """
     
-tupla = (13,1,8,3,2,5,8)
-lista = []
-for x in tupla:
-    if x < 5:
-        lista.append(x)
-print(lista)
+    
